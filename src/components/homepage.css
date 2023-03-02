@@ -10,6 +10,7 @@
 }
 
 .add-edit-input {
+  
   position: absolute;
   top: 20px;
   outline: none;
@@ -23,7 +24,7 @@
   position: absolute;
   transform: scale(2);
   top: 27px;
-  right: 750px;
+  right: 550px;
   cursor: pointer;
 }
 
